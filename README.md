@@ -52,8 +52,9 @@ The project was built with a focus on **clean architecture**, **performance**, a
 ---
 
 ## 👨‍💻 Author
-
 Shubham Hariyale
 📧 shubham.azure11@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/shubham-hariyale
+
+---
