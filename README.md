@@ -32,14 +32,7 @@ The project was built with a focus on **clean architecture**, **performance**, a
 
 ---
 
-## 🌍 Live Website
 
-🔗 **Live URL:**  
-👉 *shubhamglasshouse.com*
-
-> This is a real deployed application used by an active business.
-
----
 
 ## 📂 Project Structure
 
