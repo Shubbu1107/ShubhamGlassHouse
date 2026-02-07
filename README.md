@@ -48,6 +48,7 @@ The project was built with a focus on **clean architecture**, **performance**, a
 /Models
 /Views
 /wwwroot
+
 ---
 
 ## 👨‍💻 Author
